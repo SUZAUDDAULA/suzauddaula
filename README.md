@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suzauddaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suzauddaula" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suzauddulasuzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzauddaula suza" height="30" width="40" /></a>
+<a href="https://twitter.com/suzauddulasuzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suzauddaula" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suzauddaula-suza-433262125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzauddaula suza" height="30" width="40" /></a>
 <a href="https://fb.com/suzauddaula.suzan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suzauddaula.suzan.1" height="30" width="40" /></a>
 </p>
 
