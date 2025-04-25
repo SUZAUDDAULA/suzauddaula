@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suzauddaula" alt="suzauddaula" /></a> </p>
 
-- 💬 Ask me about **C#,ASP.NET,ASP.NET CORE,SQL Server,Javascript,Angular**
+- 💬 Ask me about **C#, ASP.NET CORE, SQL Server, Javascript, Angular**
 
 - 📫 How to reach me **suzauddaula103@gmail.com**
 
